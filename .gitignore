@@ -1,0 +1,57 @@
+# Visual Studio / C++
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Project Dirs
+MemCmtMnt/
+TestMemLeak/
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Executables
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
